@@ -1,4 +1,4 @@
-file_path = "input.in"
+file_path = "day 1/input.in"
 
 sum = 0
 
